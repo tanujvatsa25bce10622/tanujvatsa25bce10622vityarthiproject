@@ -5,16 +5,23 @@ Schools and Colleges often use manual registers or paper lists to track student 
 **Who Can Use This Program:**
 
 -School teachers
+
 -College professors
+
 -Tutoring centers
+
 -Any educational institution
 
 **Main Features**
 
 -Takes student marks and attendance
+
 -Checks if student can take exams (attendance rule)
+
 -Calculates total score
+
 -Gives grades based on class performance
+
 -Shows clear results for each student
 
 
